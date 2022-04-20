@@ -1,7 +1,7 @@
 // Select some elements...
 let header = document.querySelector('#page-header')
 header.style.textAlign = "left"
-header.style.color = "green"
+header.style.color = "Red"
 
 let dogName = document.querySelector('.dog-name')
 dogName.style.textAlign = "left"
