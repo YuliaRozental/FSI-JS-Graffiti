@@ -13,4 +13,4 @@ for(let i = 0; i < dogImages.length; i++){
 }
 
 let footer = document.querySelector('.footer')
-footer.style.color = "Violet"
+footer.style.color = "Purple"
